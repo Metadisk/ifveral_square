@@ -13,8 +13,8 @@ I used;
 Description
 
 I called name and avatar_url(avatar_url image is same and not showing I tested when i change image url it
-is working) in Main screen when you click any item opening a alertdialog and showing description when 
-you click on empty place on screen or dismiss closing dialog screen. listview sorted with name and 
+is working) in Main screen when you click any item opening an alertdialog and showing description when 
+you click any empty place on screen or click dismiss button. listview sorted with name and 
 alphabetically. Also created a simple Unit test with Mockito. 
 
 
